@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>No.135 Yaguan Rd, Tianjin, China</p>
-    <p></p>
+    
 
 selected_papers:  False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
@@ -32,5 +32,6 @@ I am an incoming Ph.D. student in Mathematics at [Georgia Institute of Technolog
 
 <h4><strong>Research Interests</strong></h4>
 
-My research interests primarily focus on Statistics, Optimization, and Machine Learning, particularly in high-dimensional statistics, optimization under uncertainty, and the theoretical foundations of machine learning. I aim to bridge the gap between statistics and optimization.
-Additionally, I am intrigued by high-dimensional data analysis. I am fascinated by the challenges and opportunities posed by high-dimensional datasets and am enthusiastic about developing innovative statistical methods for their analysis.
+My research interests primarily focus on **Statistics, Optimization, and Machine Learning**, particularly in high-dimensional statistics, optimization under uncertainty, and the theoretical foundations of machine learning. I aim to bridge the gap between statistics and optimization.
+
+Additionally, I am intrigued by **high-dimensional data analysis**. I am fascinated by the challenges and opportunities posed by high-dimensional datasets and am enthusiastic about developing innovative statistical methods for their analysis.
