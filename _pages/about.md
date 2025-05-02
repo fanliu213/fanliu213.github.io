@@ -26,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<h4><strong>About Me</strong></h4>
 
-I am an incoming Ph.D. student in Mathematics at Georgia Institute of Technology. Currently, I am pursuing my Bachelor's degree in Mathematics and Applied Mathematics at Tianjin University, where I am advised by Dr. Wenyi Tian.
+I am an incoming Ph.D. student in Mathematics at [Georgia Institute of Technology](https://math.gatech.edu/). Currently, I am pursuing my Bachelor's degree in Mathematics and Applied Mathematics at [Tianjin University](https://maths.tju.edu.cn/), where I am advised by Dr. Wenyi Tian.
+
+<h4><strong>Research Interests</strong></h4>
 
 My research interests primarily focus on Statistics, Optimization, and Machine Learning, particularly in high-dimensional statistics, optimization under uncertainty, and the theoretical foundations of machine learning. I aim to bridge the gap between statistics and optimization.
 Additionally, I am intrigued by high-dimensional data analysis. I am fascinated by the challenges and opportunities posed by high-dimensional datasets and am enthusiastic about developing innovative statistical methods for their analysis.
