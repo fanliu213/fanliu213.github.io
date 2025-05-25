@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: liufan_1@tju.edu.cn
+subtitle: |
+  liufan_1@tju.edu.cn  
+  fliu370@gatech.edu
 
 profile:
   align: left
